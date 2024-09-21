@@ -1,0 +1,6 @@
+;ignore
+.vs/*
+HotKeyProcessor/src/HotKeyProcessor/bin/*
+HotKeyProcessor/src/HotKeyProcessor/x64/*
+HotKeyProcessor/src/HotKeyProcessor/HotKeyProcessor.vcxproj.user
+x64/*
